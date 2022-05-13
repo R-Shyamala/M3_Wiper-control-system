@@ -27,6 +27,15 @@ Light Emitting Diode. When current passes through a light-emitting diode (LED), 
 ![orange led on](https://user-images.githubusercontent.com/101352498/168311920-1c318383-8820-4169-8152-82b93c36582e.png)
 #Green LED ON
 ![green Led on](https://user-images.githubusercontent.com/101352498/168312122-827ad1e2-760c-4376-b6f9-06cb8fd0f665.png)
+# BADGES
+# Code Quality ![Code Quality Score](https://api.codiga.io/project/33424/score/svg)
+
+# Code Grade ![Code Grade](https://api.codiga.io/project/33424/status/svg)
+
+# Codacy ![Codacy Badge](https://app.codacy.com/project/badge/Grade/d39c52c16e144a0a8cfdc211073ca035)
+# Cppcheck Analysis [![Cppcheck Analysis](https://github.com/R-Shyamala/M3_Wiper-control-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/R-Shyamala/M3_Wiper-control-system/actions/workflows/cppcheck.yml)
+# Linux [![Build-Linux](https://github.com/R-Shyamala/M3_Wiper-control-system/actions/workflows/linux.yml/badge.svg)](https://github.com/R-Shyamala/M3_Wiper-control-system/actions/workflows/linux.yml)
+
 
 
 
